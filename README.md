@@ -8,3 +8,20 @@
     <li>Bootsrap</li>
   </ul>
 </p>
+
+<h2>Added platoforms</h2>
+<p>
+  <ul>
+    <li>Android</li>
+  </ul>
+</p>
+
+<h2>Requirements</h2>
+
+<h3>Android</h3>
+<p>
+  <ul>
+    <li>Android SDK (no IDE required)</li>
+    <li>Java JDK</li>
+  </ul>
+</p>
